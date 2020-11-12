@@ -9,5 +9,6 @@
 ```
 **Install Amplify-cli**
 `npm install -g @aws-amplify/cli`
+
 **configure**
 `amplify configure`
